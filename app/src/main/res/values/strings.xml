@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicPilayer</string>
+    <string name="play">play</string>
+    <string name="song_title">Song Title</string>
+</resources>
